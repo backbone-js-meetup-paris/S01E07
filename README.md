@@ -23,6 +23,7 @@ Revue de presse du mois
 -----------------------
 [Florent Duveau](https://twitter.com/florentduveau)
 
+[Slides de la revue de presse](http://slides.com/florentduveau/revue-de-presse#/)
 —
 
 JSPM + System.js, enfin (!) de beaux modules
