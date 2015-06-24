@@ -29,4 +29,4 @@ JSPM + System.js, enfin (!) de beaux modules
 -------------------------------
 [Yves Amsellem](amsellemyves)
 
-—
+[Vdiéo online](http://glenmaddern.com/articles/javascript-in-2015)
